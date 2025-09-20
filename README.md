@@ -1,0 +1,2 @@
+I Made and internal cheat for smite 2. The aimbot isn't the best and the skeleton is bad/broken but it works. I cant post the compiled version here because I don't code in "release mode" but you can find the compiled code on my GitHub you find the link in my profile. EAC is very easy to bypass on smite 2. if you want a way to bypass eac for smite 2 message me on discord. ill keep this updated. You must use Directx11
+discord:SniperCHYF2
